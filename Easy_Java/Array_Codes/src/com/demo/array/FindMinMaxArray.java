@@ -2,7 +2,7 @@ package com.demo.array;
 
 import java.util.Scanner;
 
-public class Find_min_max_array
+public class FindMinMaxArray
 {
 	public static void main(String[] args)
 	{
